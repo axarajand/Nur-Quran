@@ -1,0 +1,4 @@
+rootProject.name = "Nur"
+include ':app'
+include ':core'
+include ':save'

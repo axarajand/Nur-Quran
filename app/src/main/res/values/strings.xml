@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nur Quran</string>
+
+    <string name="something_wrong">Oops.. terjadi kesalahan</string>
+    <string name="title_save">Save</string>
+    <string name="title_detail_surah">Detail Surat</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="number">1</string>
+    <string name="name_surah">Nama Surat</string>
+    <string name="revelation_surah">Wahyu</string>
+    <string name="text_arab">Text Arab</string>
+    <string name="text_translation">Text Terjemahan</string>
+    <string name="tafsir">Tafsir</string>
+    <string name="verses">Ayat</string>
+    <string name="bismillah">بِسْمِ اللّهِ الرَّحْمَنِ الرَّحِيْ</string>
+    <string name="share_verse">Bagikan Ayat</string>
+    <string name="play_verse">Mulai Ayat</string>
+    <string name="save_verse">Simpan Ayat</string>
+    <string name="save_surah">Simpan Surat</string>
+    <string name="constraint">Pembatas</string>
+</resources>
